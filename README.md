@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @jeffersonAu
-- 👀 I’m interested in : obter mais conhecimento e  aprendizado
-- 🌱 I’m currently learning : html; css; 
-- 📫 How to reach me : jefferson.augustodn@gamil.com
-
-<
-jeffersonAu/jeffersonAu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  Olá me chamo Jefferson
+-  Tenho 17 anos
+-  Experiências: C++ for Arduino, IOT, JS, MySql, html
+-  Meu objetivo é : obter mais conhecimento e  aprendizado
+-  Atualmente estudo : html; css; JavaScript; MySql (DML,DDL,DCL); git; UML (class, user case, BPMN, ER-L, ER-C);
+-  Como me encontrar : jefferson.augustodn@gmail
